@@ -1,0 +1,14 @@
+$main: red;
+
+body {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: $main;
+  background-color: #F5F7FA;
+}
+
+.wrapper {
+  display: flex;
+  width: 100%;
+}
